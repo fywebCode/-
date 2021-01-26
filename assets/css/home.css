@@ -1,6 +1,7 @@
 iframe {
     height: 100%;
     width: 100%;
+    background-color: #f2f3f5;
 }
 .layui-body {
     overflow-y: hidden;
@@ -9,3 +10,24 @@ iframe {
 .layui-icon {
            margin-right: 10px;
         }
+.firstname {
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    background-color: skyblue;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.layui-nav-img{
+    display:none;
+    width: 40px;
+    height: 40px;
+}
+.firetpage {
+    height: 50px;
+    width: 200px;
+    text-align:center;
+    line-height: 50px;
+
+}
